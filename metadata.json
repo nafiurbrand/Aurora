@@ -1,0 +1,6 @@
+{
+  "name": "AI Chatbot & Image Generator",
+  "description": "An intelligent AI Assistant and Image Generator supporting chat, creative writing, and high-fidelity image creation with bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
